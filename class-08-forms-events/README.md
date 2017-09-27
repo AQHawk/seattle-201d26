@@ -15,11 +15,14 @@
 ![ermahgerd.jpg](ermahgerd.jpg)
 
 - One-on-ones for today:
-  - 2:30 Gabe
-  - 2:45 Pope Gregory
-  - 3:00 Ivette
-  - 3:15 Joseph and the Amazing Technicolor Dreamcoat
-  - 3:30 Daniel
+  - 2:00 - Clara
+  - 2:15 - Birdie
+  - 2:30 - Dustin
+  - 2:45 - Andrew
+  - 3:00 - Kerry
+  - 3:15 - Catherine
+  - 3:30 - Seth
+  - 3:45 - Nick G
 
 ---
 
