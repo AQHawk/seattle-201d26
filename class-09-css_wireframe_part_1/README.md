@@ -7,7 +7,7 @@
 
 #### Quiz 6 will be published tomorrow (Friday) afternoon and is due at 11:59pm Sunday night.
 
---
+---
 
 #### Announcements!
 
