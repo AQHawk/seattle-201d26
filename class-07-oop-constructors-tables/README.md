@@ -1,98 +1,82 @@
-# Class 8: HTML Forms and JS Events
+# Class 7: Object-Oriented Programming with Constructor Functions; HTML Tables
 
 <a id="top"></a>
-## Today's Plan: Week 2, Wednesday Lecture
+## Today's Plan: Week 2, Tuesday Lecture
 
-#### Reminder: Quiz 4 is due at 8:59a tomorrow morning.
+#### Quiz 4 will be published this afternoon and will be due Thursday morning before class.
 
-#### Quiz 5 will be published this afternoon, and will be due Friday morning.
-
----
-
-#### Announcements
-- Today is the midpoint of class days! **ER.MAH.GERD.**
-
-![ermahgerd.jpg](ermahgerd.jpg)
-
-- One-on-ones for today:
-  - 2:00 - Clara
-  - 2:15 - Birdie
-  - 2:30 - Dustin
-  - 2:45 - Andrew
-  - 3:00 - Kerry
-  - 3:15 - Catherine
-  - 3:30 - Seth
-  - 3:45 - Nick G
+## Announcements
+- We're through the first third of the toughest part of the week. Keep plugging away!
+- Today's one-on-ones:
+  1. 2:00 - William
+  2. 2:15 - Robert
+  3. 2:30 - Nicholas C
+  4. 2:45 - Kat
+  5. 3:00 - Jeff K
+  6. 3:15 - Adrian
+  7. 3:30 - Joel
+  8. 3:45 - Catherine
 
 ---
 
-- [Code Review](#codereview)
+- [Review of Yesterday](#codereview)
 
 *10-minute break*
 
-- [Events, with Allie](#events)
+- [Constructor functions w/ Allie](#code)
 
 *10-minute break*
 
-- [HTML Forms, with Sam](#forms)
+- [HTML Tables w/ Sam](#tables)
 
-- [Discuss the lab assignment](#lab)
-
----
-
-## Readings
-
-- HTML Chapter 7: "Forms"
-- HTML Chapter 14: "Lists, Tables & Forms" (CSS)
-- JS Chapter 6: "Events"
+- [Lab overview](#lab)
 
 **Learning Objectives**
 
-As a result of completing Day 8 of Code 201, students will:
+As a result of completing Day 7 of Code 201, students will:
 
-- Be able to add an input form to an HTML document with properly structured HTML including the necessary \<form>, \<input>, and \<label> tags, as well as the useful but not necessary \<fieldset> tag, as measured by successful completion of the daily code assignment and a quiz administered in Canvas.
-- Demonstrate how to use JavaScript events with the `.addEventListener()` method on a DOM element (specifically, an HTML form), using either a named or anonymous event handler function, as measured by successful completion of the daily code assignment
-- Be able to add a new row to their data table(s) by storing, computing, and rendering data from the HTML form, as measured by successful completion of the daily code assignment
-- Be able to successfully pair program with a fellow student and manage the collaborative and version control aspects of working with Git (from the command line) and GitHub (in the browser), as measured by successful completion of the daily code assignment.
+- Be able to translate an object literal into a constructor function, as measured by successful completion of the daily code assignment
+- Be able to use the ‘prototype’ property to extend the inheritable properties and methods of a constructor function, as measured by successful completion of the daily code assignment
+- Be able to dynamically build an HTML table with JavaScript and render it to the DOM, as measured by successful completion of the daily code assignment
 
-<a id="events"></a>
-## Events
+## Readings
 
-**JS Chapter 6: "Events"**
-
-- pp.246-47: Different event types (big list!)
-- p.248: How events trigger JavaScript code
-- pp.250-53: Three ways to bind an event to an element
-- p.254: Event listeners
-- p.260: Event flow
-- p.264: Using event listeners with the event object
-- p.268: Using event delegation
-- p.270: Which element did an event occur on?
-- p.271: Different types of events
-- p.272: User interface events
-- p.280: Keyboard events
-- p.282: Form events
-- p.286: HTML5 events
+- HTML Chapter 6: "Tables"
+- JS Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
 
 [-top-](#top)
 
-<a id="forms"></a>
-## Forms
+<a id="codereview"></a>
+## Code Review
 
-**HTML Chapter 7: "Forms"**
-
-- p.148: Form controls
-- pp.149-50: How forms work
-- pp.151-62 : Form structure, overview of all input types
-- p.163: Labelling form controls
-- p.164: \<fieldset\> and grouping form elements
-- pp.165-68 : HTML5 form features (validation, dates, email, URL search)
-
-**HTML Chapter 14: "Lists, Table & Forms" (CSS)**
-
-- p.333-36: Bullet point styles/positioning for lists
-- p.337-40: Table properties (VERY useful reference)
-- p.341-44: Styling [forms, inputs, buttons, fieldsets, legends]
-- p.345: Aligning form controls
+Usual code review: we'll look at a solution or two of yours from yesterday.
 
 [-top-](#top)
+
+<a id="code"></a>
+## Constructor Functions
+
+We'll look at how to build constructor functions from object literals and discuss the most basic fundamentals of prototypal inheritance, a huge JS topic that we'll be seeing a lot more of in the coming weeks.
+
+[-top-](#top)
+
+<a id="tables"></a>
+## HTML Tables
+
+**HTML Chapter 6: "Tables"**
+
+- p.131: Basic table structure
+- p.132: Table headings
+- p.133: Spanning columns & rows
+- We'll also do a demo how to build HTML tables dynamically with JavaScript
+
+[-top-](#top)
+
+
+**Learning Objectives**
+
+As a result of completing Day 7 of Code 201, students will:
+
+- Be able to translate an object literal into a constructor function, as measured by successful completion of the daily code assignment
+- Be able to use the ‘prototype’ property to extend the inheritable properties and methods of a constructor function, as measured by successful completion of the daily code assignment
+- Be able to dynamically build an HTML table with JavaScript and render it to the DOM, as measured by successful completion of the daily code assignment
