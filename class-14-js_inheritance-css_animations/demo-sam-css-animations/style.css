@@ -46,11 +46,11 @@ button {
   }
 
   20%, 80% {
-    transform: translate3d(16px, 0, 0);
+    transform: translate3d(16px, -100px, 0);
   }
 
   30%, 50%, 70% {
-    transform: translate3d(-10px, 0, 0);
+    transform: translate3d(-10px, 1000px, 0);
   }
 
   40%, 60% {
@@ -59,7 +59,7 @@ button {
 }
 
 .wiggle {
-   animation: wiggle 5s infinite;
+   animation: wiggle 50s infinite;
 }
 
 @keyframes fontgrower {
@@ -89,7 +89,7 @@ button {
 }
 
 .spin {
-  animation: spin 2s infinite;
+  animation: spin 200s infinite;
 }
 
 img {
