@@ -72,12 +72,13 @@ On Monday morning, before noon, each team will meet with the instructional staff
 We're going to explore some advanced JS topics with *Eloquent JavaScript* and other sources. The goal is not to study them in a manner such that you are going to immediately have command over them, but to give you a basic understanding of what these topics are and find good resources for them. Some of this stuff is something you need to see a few times to really grok it.
 
 - [The State of JS 2016](http://stateofjs.com/2016/flavors/)
--  [How it Feels to Learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ygr5pmdqy)
-- String methods
-- Array methods
+- [2017 Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2017)
+- [How it Feels to Learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ygr5pmdqy)
+- [String methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+- [Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - IIFEs
 - D.R.Y.
-- Basics of "pass by value" vs. "pass by reference"
+- [Basics of "pass by value" vs. "pass by reference"](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 - Prototypal inheritance
 - Scopes & closures
 - Node
