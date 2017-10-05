@@ -1,6 +1,6 @@
 # Assignment Overview: Lab for Class 14
 
-##Let's Make an Order Form & a Shopping Cart!
+## Let's Make an Order Form & a Shopping Cart!
 
 We're going to adapt some prior stretch goals and build a small stand-alone project with it: assuming that all items in BusMall went into production, let's build a web-based order form and shopping cart app.
 
@@ -18,8 +18,8 @@ Your index.html is an order form for customers: it will have an order form for B
   - Of course, there should be appropriate instructions and styling on the page
 
   Your cart.html page will display the BusMall orders on a typical shopping cart page.
-  - It should list all orders currently unfilled with a picture of the item.
-  - Each order should have a button "Delete this item" that will remove that order from the DOM (AND array of ordered items) when it is clicked.
+  - It should list all items currently on order with a picture of the item.
+  - Each item should have a button "Delete this item" that will remove that item from the DOM (AND array of ordered items, AND local storage) when it is clicked.
 
 ## Process
 
