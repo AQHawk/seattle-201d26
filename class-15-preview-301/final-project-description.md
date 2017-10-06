@@ -106,11 +106,10 @@ Your grade is based on your individual effort and your project's technical merit
 - Uses semantic markup whenever possible
 - Good and proper use of CSS
 - Clear, readable, and efficient styles
-- Responsive layout on various screen sizes like desktop and mobile, as much as you can
 - Good and proper use of JavaScript
 - Clear, readable, and efficient code
 - Uses domain models to encapsulate data and behavior
-- Contains no unnecessary code
+- Contains no unnecessary code, including console.log messages
 - Passes the linter
 - Generally useful and functional
 - Works as expected with no bugs
